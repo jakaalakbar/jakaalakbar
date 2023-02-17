@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-[![jakaalakbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakaalakbar)](https://github.com/anuraghazra/github-readme-stats)
+[![jakaalakbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakaalakbar&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakaalakbar&layout=compact&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
