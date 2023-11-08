@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Jenkins, Docker**
 
-- 💬 Ask me about **JavaScript, React JS, Express JS, Next JS**
+- 💬 Ask me about **JavaScript, React JS, React Native, Express JS, Next JS,**
 
 - 📫 How to reach me **jakaal17@gmail.com**
 
