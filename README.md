@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaka Al Akbar</h1>
-<h3 align="center">A passionate full-stack javascript developer from Indonesia</h3>
+<h3 align="center">A passionate full-stack developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [RSHB](https://rshb-lampung.co.id/)
 
