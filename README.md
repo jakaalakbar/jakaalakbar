@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **Laravel, React JS**
+- 💬 Ask me about **Laravel, React JS, React Native**
 
 - 📫 How to reach me **jakaal17@gmail.com**
 
